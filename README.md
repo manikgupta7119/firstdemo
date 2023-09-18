@@ -1,4 +1,4 @@
 # firstdemo
 This is my first Git repository. 
 <br>
-Author - Manik Gupta
+Author - Manik MASD GURUKUL KURUKSHETRA JNU
